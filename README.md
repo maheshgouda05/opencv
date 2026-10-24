@@ -1,2 +1,2 @@
-hi, hello 
+
 By making this project i am learning how face lock and face detection works
